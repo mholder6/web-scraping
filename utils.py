@@ -37,7 +37,7 @@ def _get_starting_html():
     html += 'Hyperlinks from given Page:'
     html += '</title></head>'
     html += '<body><p><h1>'
-    html += 'Project 2 CS3280 Mariah Holder - Hyperlinks'
+    html += 'Web Scraping by Mariah Holder - Hyperlinks'
     html += '</h1></p><ul>'
     return html
 
