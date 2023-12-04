@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 The utils module that defines the functionality
 of reading and displaying hyperlinks from a specified
