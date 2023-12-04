@@ -7,8 +7,8 @@ import http.server
 import socket
 import utils
 
-__author__ = 'CS3280'
-__version__ = 'Fall2021'
+__author__ = 'Mariah Holder'
+__version__ = 'Dec 2023'
 __pylint__ = 'v1.8.3'
 
 class Project2Server(http.server.BaseHTTPRequestHandler):

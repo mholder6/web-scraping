@@ -9,7 +9,7 @@ import requests
 import bs4
 
 __author__ = 'Mariah Holder'
-__version__ = 'Fall2021'
+__version__ = 'Dec 2023'
 __pylint__ = 'v1.8.3'
 
 def page_hyperlinks(url):
